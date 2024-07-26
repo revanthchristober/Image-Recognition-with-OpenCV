@@ -1,4 +1,4 @@
-# **Image Recognition with OpenCV**
+# **Image-Recognition-with-OpenCV**
 
 This project demonstrates a simple image recognition system using OpenCV. It includes basic image processing, object detection, and facial recognition techniques.
 
@@ -7,8 +7,8 @@ This project demonstrates a simple image recognition system using OpenCV. It inc
 ### **1. Clone the Repository**
 
 ```bash
-git clone https://github.com/yourusername/image_recognition_with_opencv.git
-cd image_recognition_with_opencv
+git clone https://github.com/revanthchristober/Image-Recognition-with-OpenCV.git
+cd Image-Recognition-with-OpenCV
 ```
 
 ### **2. Create and Activate a Virtual Environment**
