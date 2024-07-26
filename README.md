@@ -66,4 +66,4 @@ The processed images will be saved in `data/output_images/`.
 
 ## License
 
-This project is licensed under the GNU 3.0 License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the GPL 3.0 License. See the [LICENSE](LICENSE) file for more details.
